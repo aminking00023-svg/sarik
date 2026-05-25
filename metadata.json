@@ -1,0 +1,6 @@
+{
+  "name": "Puzzle Map Simulator",
+  "description": "An interactive educational puzzle map simulator of India and the USA. Players drag and drop states or provinces into place to build geographical knowledge, combined with an AI-generated geography guide for learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
